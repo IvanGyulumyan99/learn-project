@@ -1,0 +1,12 @@
+requestSpecifications/RequestSpecs.java
+ requestSpecifications.RequestSpecs
+mappings/dateHelper/DateDeserializer.java
+ mappings.dateHelper.DateDeserializer
+mappings/WeatherInfo.java
+ mappings.WeatherInfo
+mappings/RequestPOJO.java
+ mappings.RequestPOJO
+mappings/LocationPOJO.java
+ mappings.LocationPOJO
+mappings/CurrentPOJO.java
+ mappings.CurrentPOJO

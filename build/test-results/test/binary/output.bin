@@ -1,0 +1,59 @@
+
+Location 
+Name Moscow
+ country = Russia
+ region = Moscow City
+ latitude = 55.752
+ longitude = 37.616
+ timezone = Europe/Moscow
+ local time = 2022-02-06T01:50
+ Current weather 
+
+ temperature = -13
+ wind speed = 11
+ wind direction = ESE
+ pressure = 1004
+ feels like = -18
+ UV index = 1
+ visibility = 7
+{
+    "request": {
+        "type": "City",
+&        "query": "Krasnodar, Russia",
+        "language": "en",
+        "unit": "m"
+    },
+    "location": {
+        "name": "Krasnodar",
+        "country": "Russia",
+        "region": "Krasnodar",
+        "lat": "45.033",
+        "lon": "38.977",
+(        "timezone_id": "Europe/Moscow",
+)        "localtime": "2022-02-06 01:53",
+'        "localtime_epoch": 1644112380,
+        "utc_offset": "3.0"
+    },
+    "current": {
+(        "observation_time": "10:53 PM",
+        "temperature": -1,
+        "weather_code": 116,
+        "weather_icons": [
+h            "https://assets.weatherstack.com/images/wsymbols01_png_64/wsymbol_0004_black_low_cloud.png"
+        ],
+"        "weather_descriptions": [
+            "Partly cloudy"
+        ],
+        "wind_speed": 11,
+        "wind_degree": 100,
+        "wind_dir": "E",
+        "pressure": 1018,
+        "precip": 0,
+        "humidity": 86,
+        "cloudcover": 75,
+        "feelslike": -5,
+        "uv_index": 1,
+        "visibility": 10,
+        "is_day": "no"
+    }
+}
