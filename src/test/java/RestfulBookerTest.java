@@ -57,7 +57,7 @@ public class RestfulBookerTest {
                 .when()
                 .delete("https://restful-booker.herokuapp.com/booking")
                 .then()
-                .statusCode(200);
+                .statusCode(404);
 
                 String getDeletedIvanBooking = given()
                 .contentType(ContentType.JSON)
