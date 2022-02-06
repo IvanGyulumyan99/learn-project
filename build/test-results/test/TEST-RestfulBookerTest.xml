@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RestfulBookerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-06T21:28:08" hostname="DESKTOP-88QKCJD" time="6.393">
+  <properties/>
+  <testcase name="auth" classname="RestfulBookerTest" time="6.393"/>
+  <system-out><![CDATA[61bb09fee2b2bc3
+CreatedBooking{bookingId=31, booking=CreateBooking{firstname='Ivan', lastname='Gyulumyan', totalPrice=123, depositPaid=true, bookingDates=BookingDates(checkIn=2021-02-01, checkout=2021-02-02), additionalNeeds='no needs'}}
+[{"bookingid":10},{"bookingid":15},{"bookingid":8},{"bookingid":24},{"bookingid":13},{"bookingid":4},{"bookingid":16},{"bookingid":2},{"bookingid":23},{"bookingid":9},{"bookingid":26},{"bookingid":11},{"bookingid":31},{"bookingid":12},{"bookingid":5},{"bookingid":14},{"bookingid":20},{"bookingid":1},{"bookingid":21},{"bookingid":27},{"bookingid":18},{"bookingid":3},{"bookingid":28},{"bookingid":25},{"bookingid":7},{"bookingid":19},{"bookingid":22},{"bookingid":29},{"bookingid":6}]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
