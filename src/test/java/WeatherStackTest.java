@@ -1,5 +1,5 @@
 import io.restassured.specification.RequestSpecification;
-import mappings.WeatherInfo;
+import mappings.weatherstack.WeatherInfo;
 import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.given;

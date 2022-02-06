@@ -1,4 +1,4 @@
-package mappings.dateHelper;
+package helpers;
 
 import com.fasterxml.jackson.core.JsonParser;
 import com.fasterxml.jackson.core.JsonProcessingException;

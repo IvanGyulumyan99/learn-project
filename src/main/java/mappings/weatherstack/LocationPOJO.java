@@ -1,4 +1,4 @@
-package mappings;
+package mappings.weatherstack;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
@@ -6,7 +6,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
 import lombok.Data;
 import lombok.Getter;
-import mappings.dateHelper.DateDeserializer;
+import helpers.DateDeserializer;
 
 import java.time.LocalDateTime;
 

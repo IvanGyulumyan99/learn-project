@@ -1,4 +1,4 @@
-package mappings;
+package mappings.weatherstack;
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.annotation.JsonProperty;

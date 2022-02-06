@@ -1,12 +1,25 @@
+mappings/weatherstack/CurrentPOJO.java
+ mappings.weatherstack.CurrentPOJO
+mappings/weatherstack/RequestPOJO.java
+ mappings.weatherstack.RequestPOJO
 requestSpecifications/RequestSpecs.java
  requestSpecifications.RequestSpecs
-mappings/dateHelper/DateDeserializer.java
- mappings.dateHelper.DateDeserializer
-mappings/WeatherInfo.java
- mappings.WeatherInfo
-mappings/RequestPOJO.java
- mappings.RequestPOJO
-mappings/LocationPOJO.java
- mappings.LocationPOJO
-mappings/CurrentPOJO.java
- mappings.CurrentPOJO
+mappings/weatherstack/LocationPOJO.java
+ mappings.weatherstack.LocationPOJO
+helpers/DateDeserializer.java
+ helpers.DateDeserializer
+mappings/heroku/UserPOJO.java
+ mappings.heroku.UserPOJO
+ mappings.heroku.UserPOJO$UserPOJOBuilder
+mappings/weatherstack/WeatherInfo.java
+ mappings.weatherstack.WeatherInfo
+helpers/JsonGenerator.java
+ helpers.JsonGenerator
+mappings/heroku/Bookings.java
+ mappings.heroku.Bookings
+mappings/heroku/BookingDates.java
+ mappings.heroku.BookingDates
+mappings/heroku/CreatedBooking.java
+ mappings.heroku.CreatedBooking
+mappings/heroku/CreateBooking.java
+ mappings.heroku.CreateBooking
